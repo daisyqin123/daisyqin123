@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @daisyqin123
+- 👋 Hi, I’m @daisyqin
 - 👀 I’m interested in software development and UX design
 - 🌱 I’m currently learning IT in UTS
-- 💞️ I’m looking to collaborate on software development or UX direction
 - 📫 How to reach me ...(yumengqin407@gmail.com)
 
 <!---
